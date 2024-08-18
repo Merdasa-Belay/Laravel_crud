@@ -9,7 +9,6 @@
 
     </head>
     <body>
-        <h1>Crud Application</h1>
         @section('sidebar')
             {{-- This is the master sidebar. --}}
         @show
